@@ -1,0 +1,13 @@
+{
+  "appname": "AppMM",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "3E3FC3EE-F2DE-4ACB-8F1C-EEF8C113AF53",
+  "buyerid": "Midwest-mountaineering",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
